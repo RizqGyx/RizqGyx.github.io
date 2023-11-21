@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"android"},
+{"type":"table","name":"perpustakaan","database":"android","data":
+[
+{"ID_Buku":"101","Judul":"5 cm","Pengarang":"Donny Dhirgantoro","Tahun_Terbit":"2005","Halaman":"382","Sampul":"https:\/\/upload.wikimedia.org\/wikipedia\/id\/3\/3d\/5cm.jpg"},
+{"ID_Buku":"408","Judul":"Tujuh Kelana","Pengarang":"Nellaneva","Tahun_Terbit":"2020","Halaman":"384","Sampul":"https:\/\/images.tokopedia.net\/img\/JFrBQq\/2022\/5\/17\/b59edbcd-4da7-4210-ad4c-acbb8b133725.jpg"},
+{"ID_Buku":"504","Judul":"Catatan Harian Sang Pembunuh (Diary Of A Murderer)","Pengarang":"Kim Young-ha","Tahun_Terbit":"2020","Halaman":"164","Sampul":"https:\/\/s3-ap-southeast-1.amazonaws.com\/ebook-previews\/51254\/195909\/1.jpg"},
+{"ID_Buku":"702","Judul":"Ubur-Ubur Lembur","Pengarang":"Raditya Dika","Tahun_Terbit":"2018","Halaman":"231","Sampul":"https:\/\/upload.wikimedia.org\/wikipedia\/id\/8\/8f\/Ubur-ubur-Lembur1.jpg"},
+{"ID_Buku":"1204","Judul":"Tokyo dan Perayaan Kesedihan","Pengarang":"Ruth Priscilia Angelina","Tahun_Terbit":"2020","Halaman":"192","Sampul":"https:\/\/cdn.gramedia.com\/uploads\/items\/9786020640846_tokyo_and.jpg"},
+{"ID_Buku":"1502","Judul":"Home Sweet Loan","Pengarang":"Almira Bastari","Tahun_Terbit":"2022","Halaman":"312","Sampul":"https:\/\/cdn.gramedia.com\/uploads\/items\/Home_Sweet_Loan_cov.jpg"},
+{"ID_Buku":"1601","Judul":"Bulan","Pengarang":"Tere Liye","Tahun_Terbit":"2015","Halaman":"440","Sampul":"https:\/\/id.wikipedia.org\/wiki\/Berkas:Sampul_novel_Bulan.jpeg"},
+{"ID_Buku":"2004","Judul":"Cantik itu Luka","Pengarang":"Eka Kurniawan","Tahun_Terbit":"2002","Halaman":"537","Sampul":"https:\/\/id.wikipedia.org\/wiki\/Berkas:CiL_(sampul).jpg"},
+{"ID_Buku":"2009","Judul":"Where Stories Begin","Pengarang":"Wacaku","Tahun_Terbit":"2022","Halaman":"240","Sampul":"https:\/\/www.bukukita.com\/babacms\/displaybuku\/119442_f.jpg"},
+{"ID_Buku":"2511","Judul":"Laut Bercerita","Pengarang":"Leila S. Chudori","Tahun_Terbit":"2017","Halaman":"394","Sampul":"https:\/\/s3-ap-southeast-1.amazonaws.com\/ebook-previews\/40678\/143505\/1.jpg"}
+]
+}
+]
